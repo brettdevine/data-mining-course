@@ -1,0 +1,7 @@
+---
+title: "Data Mining Course"
+---
+
+Here will be the main description and introduction to the course. Something to both inform and advertise. I will include images and other things to communicate some course content and approach. Course outcomes, etc.
+
+I'd like this to be an impressive landing page for recruiters to see.

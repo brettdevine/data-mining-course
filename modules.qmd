@@ -1,0 +1,9 @@
+---
+title: "Modules"
+---
+
+This will be the main organizational page. This will list the modules and contain links to each module page which will include the necessary recorded lectures, practice documents, lessons, readings, etc.
+
+The actual assessments like quizzes, exams, and problem set submissions will still be done with Canvas. However, I will post the assignment and perhaps keys and such here, along with plenty of practice lab files.
+
+This will be the main page I would think students would interact with the most. It will lead them to the specific lesson, problem set, etc.
