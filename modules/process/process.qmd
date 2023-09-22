@@ -1,0 +1,6 @@
+---
+title: "02 - Data Mining & Machine Learning Process"
+image: "CRISP-DM-Icon.png"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi arcu, eleifend at tellus nec, imperdiet pellentesque nulla. Duis mollis diam et tincidunt faucibus. Fusce imperdiet consectetur nulla sit amet vehicula. Phasellus vitae porttitor nisl, non tempus ipsum. Aenean viverra massa et nisl viverra euismod. Nam in lobortis libero. Sed laoreet erat ac diam dapibus malesuada.

@@ -1,0 +1,10 @@
+---
+title: "01 - Introduction to Data Mining"
+date: "09-01-2023"
+author: "Brett Devine"
+image: "machine_learning_icon.png"
+---
+
+This is the introductory module. It will contain content, links to video and page-based content with critical lessons to be learned. Maybe some presentations, etc.
+
+Interested to know at the moment how it appears in the site framework that I can hopefully build up over time into something nice. I can do the same with MSBA 8180 and the programming course.

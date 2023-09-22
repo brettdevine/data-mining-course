@@ -1,5 +1,12 @@
 ---
 title: "Modules"
+listing:
+  contents: 
+    - "modules/*.qmd"
+    - "modules/introduction/*.qmd"
+    - "modules/process/*.qmd"
+    - "modules/data_preparation/*.qmd"
+  type: default
 ---
 
 This will be the main organizational page. This will list the modules and contain links to each module page which will include the necessary recorded lectures, practice documents, lessons, readings, etc.
