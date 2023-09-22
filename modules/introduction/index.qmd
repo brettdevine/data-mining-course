@@ -1,0 +1,74 @@
+---
+title: "01 - Introduction to Data Mining"
+date: "09-01-2023"
+author: "Brett Devine"
+image: "machine_learning_icon.png"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi arcu, eleifend at tellus nec, imperdiet pellentesque nulla. Duis mollis diam et tincidunt faucibus. Fusce imperdiet consectetur nulla sit amet vehicula. Phasellus vitae porttitor nisl, non tempus ipsum. Aenean viverra massa et nisl viverra euismod. Nam in lobortis libero. Sed laoreet erat ac diam dapibus malesuada.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi arcu, eleifend at tellus nec, imperdiet pellentesque nulla. Duis mollis diam et tincidunt faucibus. Fusce imperdiet consectetur nulla sit amet vehicula. Phasellus vitae porttitor nisl, non tempus ipsum. Aenean viverra massa et nisl viverra euismod. Nam in lobortis libero. Sed laoreet erat ac diam dapibus malesuada.
+
+<p>
+
+<iframe class="lti-embed" style="width: 640px; height: 480px;" title="What is Machine Learning?" src="https://www.youtube-nocookie.com/embed/HcqpanDadyQ?feature=oembed&amp;rel=0" width="640" height="480" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *">
+
+</iframe>
+
+</p>
+
+<p>
+
+<iframe class="lti-embed" style="width: 640px; height: 480px;" title="The 7 steps of machine learning" src="https://www.youtube-nocookie.com/embed/nKW8Ndu7Mjw?feature=oembed&amp;rel=0" width="640" height="480" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *">
+
+</iframe>
+
+</p>
+
+<p>
+
+<iframe class="lti-embed" style="width: 640px; height: 480px;" title="What is Data Mining" src="https://www.youtube-nocookie.com/embed/81bm2OsEzbg?feature=oembed&amp;rel=0" width="640" height="480" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *">
+
+</iframe>
+
+</p>
+
+<p>
+
+<iframe class="lti-embed" style="width: 640px; height: 480px;" title="Machine Learning Applications For Businesses" src="https://www.youtube-nocookie.com/embed/5fBNa4QFGXU?feature=oembed&amp;rel=0" width="640" height="480" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *">
+
+</iframe>
+
+</p>
+
+<p>
+
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/7U2ekZMyTOo?si=6kZJ_M4f1lLqS361" width="640" height="480" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+
+</iframe>
+
+</p>
+
+<p>
+
+<iframe class="lti-embed" style="width: 640px; height: 480px;" title="A Gentle Introduction to Machine Learning" src="https://www.youtube-nocookie.com/embed/Gv9_4yMHFhI?feature=oembed&amp;rel=0" width="640" height="480" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *">
+
+</iframe>
+
+</p>
+
+<p>
+
+<iframe class="lti-embed" style="width: 640px; height: 480px;" title="Machine Learning Fundamentals: Bias and Variance" src="https://www.youtube-nocookie.com/embed/EuBBz3bI-aA?feature=oembed&amp;rel=0" width="640" height="480" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *">
+
+</iframe>
+
+</p>
+
+<p>
+
+<iframe class="lti-embed" style="width: 640px; height: 480px;" title="Machine Learning Fundamentals: Cross Validation" src="https://www.youtube-nocookie.com/embed/fSytzGwwBVw?feature=oembed&amp;rel=0" width="640" height="480" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *; autoplay *; clipboard-write *; display-capture *">
+
+</iframe>
+
+</p>
